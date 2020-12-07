@@ -1,7 +1,7 @@
 ﻿<?php	header('Content-Type: application/json; charset=utf8');
 	$mysql_host = "localhost";
-	$mysql_user = "dev_jyt";
-	$mysql_password = "123456";
+	$mysql_user = //비공개;
+	$mysql_password = //비공개;
 	$mysql_db = "emergency";
 
 	$conn = mysqli_connect($mysql_host, $mysql_user, $mysql_password, $mysql_db);
