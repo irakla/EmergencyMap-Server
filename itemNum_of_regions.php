@@ -1,7 +1,7 @@
 ﻿<?php	header('Content-Type: application/json; charset=utf8');
 	$mysql_host = "localhost";
-	$mysql_user = "dev_jyt";
-	$mysql_password = "123456";
+	$mysql_user = //비공개;
+	$mysql_password = //비공개;
 
 	const DISTINCTION_AED = 100;
 	const DISTINCTION_TSUNAMI_SHELTERS = 200;
